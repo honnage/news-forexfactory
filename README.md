@@ -1,4 +1,4 @@
-## Pull news from Forexfactory
+# Pull news from Forexfactory
 
 By specifying the news time
 
@@ -7,8 +7,10 @@ Start News
 
 End News
 > endDate_news = '2023-08-26'
+---
 
 ## Option find news is 'Focus' or 'Not Focus'
+
 Get news only on currency pairs is JPY, NZD, GBP, EUR, CNY
 > option_news = 'Focus'
 > currency_type = ['JPY', 'NZD', 'GBP', 'EUR', 'CNY']
